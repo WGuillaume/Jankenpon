@@ -1,0 +1,15 @@
+C:\Users\mrkarasu\source\repos\jankenpon\obj\Debug\net6.0\jankenpon.csproj.AssemblyReference.cache
+C:\Users\mrkarasu\source\repos\jankenpon\obj\Debug\net6.0\jankenpon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkarasu\source\repos\jankenpon\obj\Debug\net6.0\jankenpon.AssemblyInfoInputs.cache
+C:\Users\mrkarasu\source\repos\jankenpon\obj\Debug\net6.0\jankenpon.AssemblyInfo.cs
+C:\Users\mrkarasu\source\repos\jankenpon\obj\Debug\net6.0\jankenpon.csproj.CoreCompileInputs.cache
+C:\Users\mrkarasu\source\repos\jankenpon\bin\Debug\net6.0\jankenpon.exe
+C:\Users\mrkarasu\source\repos\jankenpon\bin\Debug\net6.0\jankenpon.deps.json
+C:\Users\mrkarasu\source\repos\jankenpon\bin\Debug\net6.0\jankenpon.runtimeconfig.json
+C:\Users\mrkarasu\source\repos\jankenpon\bin\Debug\net6.0\jankenpon.dll
+C:\Users\mrkarasu\source\repos\jankenpon\bin\Debug\net6.0\jankenpon.pdb
+C:\Users\mrkarasu\source\repos\jankenpon\obj\Debug\net6.0\jankenpon.dll
+C:\Users\mrkarasu\source\repos\jankenpon\obj\Debug\net6.0\refint\jankenpon.dll
+C:\Users\mrkarasu\source\repos\jankenpon\obj\Debug\net6.0\jankenpon.pdb
+C:\Users\mrkarasu\source\repos\jankenpon\obj\Debug\net6.0\jankenpon.genruntimeconfig.cache
+C:\Users\mrkarasu\source\repos\jankenpon\obj\Debug\net6.0\ref\jankenpon.dll
