@@ -14,4 +14,4 @@ La feuille gagne contre la pierre
 
 Les ciseaux gagnent contre la feuille
 
-Celui qui remporte 2 ou 3 manches selon les saisons gagne ce duel.
+Celui qui remporte le plus de manches sur 10 gagne ce duel.
