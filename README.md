@@ -12,6 +12,6 @@ La pierre gagne contre les ciseaux
 
 La feuille gagne contre la pierre
 
-Les ciseaux gagnent contre la feuille
+Le ciseaux gagne contre la feuille
 
 Celui qui remporte le plus de manches sur 10 gagne ce duel.
